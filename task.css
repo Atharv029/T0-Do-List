@@ -1,0 +1,84 @@
+body{
+ background-color: hsl(0deg 65.36% 64.9%); 
+  
+}
+.heading{
+    position: absolute;
+    top: 00px;
+    right: 66%;
+    font-size: xx-large;
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+
+.main{
+    width: 500px;
+    height: 95%;
+    border: 1.8px solid rgb(0, 0, 0);
+    position: absolute;
+    top: 15px;
+    left: 30%;
+    border-radius: 15px;
+    background-color: hsl(179.38deg 43.24% 56.47%);
+    
+}
+
+
+
+.text li{
+    position: relative;
+    background-color:  hsl(274deg 54.88% 67.84%);
+    width: 430px;
+    height: 27px;
+    border: 1.5px solid black;
+    border-radius: 6px;
+    text-decoration: none;
+    list-style: none;
+    padding-top: 9px;
+    padding-left: 9px;
+    margin: 9px;
+    top: 140px;
+    left: 4%;
+    font-weight: bolder;
+    
+}
+
+
+.input-task{
+    position: absolute;
+    top: 29.8%;
+    left: 5.5%;
+    }
+
+.enter-task{
+    width: 330px;
+    height: 25px;
+    position: absolute;
+    border-radius:6px ;
+    bottom:350%;
+    background-color: hsl(41.79deg 90.06% 68.43%);
+    border: 2px solid black;
+}
+
+.btn{
+    width: 85px;
+    height: 31px; 
+    position: absolute;
+    top: 15.9%;
+    border-radius: 6px;
+    left: 77%;
+    background-color: hsl(141.64deg 31.28% 61.76%);
+    border: 2px solid black;
+}
+
+.line{
+    position: relative;
+    top: 130px;
+    color: rgb(84, 79, 79);
+    height: 2px;
+    border-radius: 2px;
+}
+
+
+
